@@ -286,7 +286,7 @@ line-height: 24px;
 /*Reviews section*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rubik:wght@600&display=swap');
 .Review-wrapper{
-    background: #ECF4F4;
+    background: #00fbfb;
 }
 .pr1{
     font-family: 'Poppins', sans-serif;
